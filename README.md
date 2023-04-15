@@ -1,16 +1,15 @@
-### Hi there 👋
+### DDOLBBAK
 
-<!--
-**DolBaKi/DolBaKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 사용하는 언어 : c/c++, python, JAVA, XML
 
-Here are some ideas to get you started:
+#### 관심분야 : 리버싱, 닷넷덤프, 서버개발
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#### Look My Contact
+
+##### E-mail : woojohn77@naver.com
+
+##### baekjoon : woojohn77
+
+##### Riot ID : little PAKA 09
