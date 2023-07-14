@@ -16,6 +16,7 @@
  * FinalCut Pro
  * Motion 5
  * OllyDbg
+ * dnSpy
 
 #### Look My Contact
 
