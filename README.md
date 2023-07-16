@@ -6,17 +6,17 @@
 
 #### 프로그램 모음
 
- * Dev-C++
- * IDA Pro
- * VSCode
- * Visual Studio
- * MegaDumper
- * Android Studio
- * Eclipse
- * FinalCut Pro
- * Motion 5
- * OllyDbg
- * dnSpy
+ * Dev-C++        https://www.bloodshed.net/
+ * IDA Pro        https://hex-rays.com/ida-pro/
+ * VSCode         https://code.visualstudio.com/
+ * Visual Studio  https://visualstudio.microsoft.com/ko/
+ * MegaDumper     https://github.com/CodeCracker-Tools/MegaDumper
+ * Android Studio https://developer.android.com/studio
+ * Eclipse        https://www.eclipse.org/downloads/
+ * FinalCut Pro   https://www.apple.com/kr/final-cut-pro/
+ * Motion 5       https://www.apple.com/kr_smb_5003936/shop/product/D6110Z/A/motion-5
+ * OllyDbg        https://www.ollydbg.de/
+ * dnSpy          https://github.com/dnSpy/dnSpy
 
 #### Look My Contact
 
