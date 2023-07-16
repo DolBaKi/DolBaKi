@@ -24,4 +24,4 @@
 
 ##### baekjoon : woojohn77
 
-##### Riot ID : little PAKA 09
+##### Riot ID : little PAKA 09#KR1
