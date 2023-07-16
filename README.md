@@ -1,22 +1,22 @@
-### DDOLBBAK
+### swcha23
 
-#### 사용하는 언어 : c/c++, python, JAVA, XML
+#### 사용하는 언어 : c/c++, python, JAVA
 
-#### 관심분야 : 리버싱, 닷넷덤프, 서버개발, 아이폰 탈옥, 컴퓨터 알고리즘 공부, 이산수학
+#### 관심분야 : 리버싱, 아이폰 탈옥, Program Solving, 이산수학
 
 #### 프로그램 모음
 
 ##### * Dev-C++________https://www.bloodshed.net/
-##### * IDA Pro________https://hex-rays.com/ida-pro/
+##### * IDA Pro_________https://hex-rays.com/ida-pro/
 ##### * VSCode_________https://code.visualstudio.com/
-##### * Visual Studio__https://visualstudio.microsoft.com/ko/
-##### * MegaDumper_____https://github.com/CodeCracker-Tools/MegaDumper
+##### * Visual Studio___https://visualstudio.microsoft.com/ko/
+##### * MegaDumper___https://github.com/CodeCracker-Tools/MegaDumper
 ##### * Android Studio_https://developer.android.com/studio
-##### * Eclipse________https://www.eclipse.org/downloads/
-##### * FinalCut Pro___https://www.apple.com/kr/final-cut-pro/
-##### * Motion 5_______https://www.apple.com/kr_smb_5003936/shop/product/D6110Z/A/motion-5
-##### * OllyDbg________https://www.ollydbg.de/
-##### * dnSpy__________https://github.com/dnSpy/dnSpy
+##### * Eclipse_________https://www.eclipse.org/downloads/
+##### * FinalCut Pro____https://www.apple.com/kr/final-cut-pro/
+##### * Motion 5________https://www.apple.com/kr_smb_5003936/shop/product/D6110Z/A/motion-5
+##### * OllyDbg_________https://www.ollydbg.de/
+##### * dnSpy___________https://github.com/dnSpy/dnSpy
 
 #### Look My Contact
 
