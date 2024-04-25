@@ -3,7 +3,7 @@
 
 ### Contact
 E-mail:woojohn77@naver.com  
-Discord:dnlnoo  
+Discord:navysseal        
 Instagram:cx._s.wxo
 
 ### What I'm doing
