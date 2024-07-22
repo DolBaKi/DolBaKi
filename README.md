@@ -11,6 +11,7 @@ Instagram:cx._s.wxo
 2. Reinforcement Learning
 3. Program Solving
 4. DNN Architecture Studying
+5. Language studying(now I'm learning how to use delphi)
 
 ### Using
 
