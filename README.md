@@ -2,8 +2,7 @@
 9th grade in Middle School in Korea
 
 ### Contact
-E-mail:woojohn77@naver.com  
-Discord:triplehack4        
+E-mail:woojohn77@naver.com   
 Instagram:cx._s.wxo
 
 ### What I'm doing
