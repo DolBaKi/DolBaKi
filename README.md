@@ -21,3 +21,7 @@ Instagram:cx._s.wxo
 ### PS Rating
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woojohn77)](https://solved.ac/woojohn77/)
+
+
+##
+https://www.miricanvas.com/v/13n5qw7
