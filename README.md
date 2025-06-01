@@ -1,5 +1,5 @@
 ## DolBaKi
-9th grade in Middle School in Korea
+10th grade in High School in Korea
 
 ### Contact
 E-mail:woojohn77@naver.com   
