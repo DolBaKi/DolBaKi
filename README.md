@@ -1,9 +1,5 @@
-## DolBaKi
-10th grade in High School in Korea
-
-### Contact
-E-mail:woojohn77@naver.com   
-Instagram:cx._s.wxo
+## DolBaKi &#127472;&#127479;
+10th grade 
 
 ### What I'm doing
 1. Supervisor Learning
